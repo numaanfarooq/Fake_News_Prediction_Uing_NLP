@@ -1,3 +1,7 @@
+![download (1)](https://github.com/numaanfarooq/Fake_News_Prediction_Uing_NLP/assets/144113131/bfa8d512-4ba7-4d49-bfe9-e40f4edb98f1)
+![download](https://github.com/numaanfarooq/Fake_News_Prediction_Uing_NLP/assets/144113131/e004f0b0-93fd-4686-8104-e9fef7750842)
+
+
 # Fake_News_Prediction_Uing_NLP
 This project involves the development of a machine learning(NLP) model to detect fake news.The dataset used for this project contains labeled news articles, allowing the model to differentiate between real and fake news. Several algorithms were evaluated to identify the best-performing model.
 
@@ -18,5 +22,6 @@ True	4154	43
 Fake	56	4685
 The ROC curve for the Logistic Regression model shows an AUC of 1.00, indicating excellent performance.
 ![download (1)](https://github.com/numaanfarooq/Fake_News_Prediction_Uing_NLP/assets/144113131/bfa8d512-4ba7-4d49-bfe9-e40f4edb98f1)
-![Uploading download.png…]()
+![download](https://github.com/numaanfarooq/Fake_News_Prediction_Uing_NLP/assets/144113131/e004f0b0-93fd-4686-8104-e9fef7750842)
+
 
