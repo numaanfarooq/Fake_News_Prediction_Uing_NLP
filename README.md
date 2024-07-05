@@ -18,3 +18,5 @@ True	4154	43
 Fake	56	4685
 The ROC curve for the Logistic Regression model shows an AUC of 1.00, indicating excellent performance.
 ![download (1)](https://github.com/numaanfarooq/Fake_News_Prediction_Uing_NLP/assets/144113131/bfa8d512-4ba7-4d49-bfe9-e40f4edb98f1)
+![Uploading download.png…]()
+
