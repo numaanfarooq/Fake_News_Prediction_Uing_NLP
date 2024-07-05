@@ -5,8 +5,16 @@
 # Fake_News_Prediction_Uing_NLP
 This project involves the development of a machine learning(NLP) model to detect fake news.The dataset used for this project contains labeled news articles, allowing the model to differentiate between real and fake news. Several algorithms were evaluated to identify the best-performing model.
 
-Project Structure
-The project is structured as follows:
+Requirements
+The project requires the following Python packages:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+Data
+The dataset used for this project is a labeled dataset of news articles. It contains two columns: the article text and the label (real or fake).
 
 data: Contains the dataset used for training and testing the models.
 notebooks: Jupyter notebooks for data exploration, model training, and evaluation.
