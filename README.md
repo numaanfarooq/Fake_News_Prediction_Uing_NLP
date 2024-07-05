@@ -1,4 +1,6 @@
-https://cdn.cnn.com/cnnnext/dam/assets/201023114528-20201023-trump-fake-news-full-169.jpg
+![p05vg83c](https://github.com/numaanfarooq/Fake_News_Prediction_Uing_NLP/assets/144113131/d9c1acf6-94fc-4781-a1c0-2738a5027340)
+
+
 # Fake_News_Prediction_Uing_NLP
 This project involves the development of a machine learning(NLP) model to detect fake news.The dataset used for this project contains labeled news articles, allowing the model to differentiate between real and fake news. Several algorithms were evaluated to identify the best-performing model.
 
